@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **naordl/naordl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello!👋
+
+- **Entry-level DevOps Engineer**.
+- Based in EU.
+- Passionate about cloud infrastructure and automation.
+
+## Connect with Me
+- **Website:** [rolandnemes.com](https://rolandnemes.com)
+- **LinkedIn:** [linkedin.com/in/roland-nemes-089297330](https://linkedin.com/in/roland-nemes-089297330)
+- **GitHub:** [github.com/naordl](https://github.com/naordl)
