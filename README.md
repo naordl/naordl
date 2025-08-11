@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 ## Connect with Me
 - **Website:** [rolandnemes.com](https://rolandnemes.com)
 - **LinkedIn:** [linkedin.com/in/roland-nemes-089297330](https://linkedin.com/in/roland-nemes-089297330)
-- **GitHub:** [github.com/naordl](https://github.com/naordl)
